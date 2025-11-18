@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steis\\Downloads\\SistemaInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\steis\\downloads\\sistemainventario\\sistemainventario\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmregistrarproductocmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\forms\\frmregistrarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\forms\\frmregistrarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|C:\\Users\\steis\\Downloads\\SistemaInventario\\sistemainventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74BF99E-393B-498D-BADD-796795B49DE3}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:35:34.419Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegistrarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmRegistrarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:38:24.634Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRegistrarProductoCmd.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:14:44.231Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Helpers\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Helpers\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Helpers\\SecurityHelper.cs",
+              "RelativeToolTip": "SistemaInventario\\Helpers\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:59:58.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Models\\Producto.cs",
+              "RelativeToolTip": "SistemaInventario\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:25:29.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\App.config",
+              "RelativeDocumentMoniker": "SistemaInventario\\App.config",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\App.config",
+              "RelativeToolTip": "SistemaInventario\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-18T05:17:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaInventario\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:24:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRegistrarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProducto.cs",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmRegistrarProducto.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAwwB8BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:07:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:37:52.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmRegistrarProductoCmd.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmRegistrarProductoCmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:39:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmRegistrarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProducto.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Forms\\frmRegistrarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Forms\\frmRegistrarProducto.Designer.cs",
+              "RelativeToolTip": "SistemaInventario\\Forms\\frmRegistrarProducto.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAD4v9gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:53:54.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\steis\\Downloads\\SistemaInventario\\SistemaInventario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:17:04.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
